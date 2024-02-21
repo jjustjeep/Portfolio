@@ -10,7 +10,7 @@ In this project aims to study electricity consumption in Thailand (monthly) in t
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/jsutthida/Portfolio/blob/main/eth.jpg"> **[ETHUSD price forecasting using ARIMA and SARIMAX model]([https://github.com/jsutthida/Forecasting-Thailand-Electricity-Consumption-by-ARIMA-model-and-STL](https://github.com/jsutthida/ETHUSD-price-forecasting-using-ARIMA-and-SARIMAX-model))**
+<img align="left" width="250" height="150" src="https://github.com/jsutthida/Portfolio/blob/main/eth.jpg"> **[ETHUSD price forecasting using ARIMA and SARIMAX model](https://github.com/jsutthida/ETHUSD-price-forecasting-using-ARIMA-and-SARIMAX-model)**
 
 In this project aims to study cryptocurentcy ETHUSD price. I will uses ARIMA and SARIMAX for building the forecasts model.
 
