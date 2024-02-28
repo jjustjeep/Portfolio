@@ -21,3 +21,13 @@ In this project aims to study cryptocurentcy Ethereum (ETHUSD) price data from Y
 <img align="left" width="250" height="150" src="https://github.com/jsutthida/Portfolio/blob/main/raining.jpg"> **[Application of EM algorithm in parameter estimation for normal mixture models by using R program](https://github.com/jsutthida/EM-algorithm-in-parameter-estimation-for-normal-mixture-models-by-R-program)**
 
 This study is concerned with applying an Expectation – Maximization algorithm (EM algorithm) for estimating parameters in a normal mixture model. We show how to apply the EM algorithm for estimating parameters in the normal mixture model with two components by using R programming.
+
+
+#
+
+
+<img align="left" width="250" height="150" src="https://github.com/jsutthida/Portfolio/blob/main/us_retail.jpg"> **[Visualizing of U.S. retail sales information by Tableau](https://github.com/jsutthida/Visualizing-of-U.S.-retail-sales-information)**
+
+In this project, I'm showing data visualization of U.S. retail sales information by Tableau with interactive dashboard. I'm using dataset from Kaggle.com
+
+A dashboard consists of table of sales value per year, sales by product type and sales by state with geographic.
