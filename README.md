@@ -4,6 +4,11 @@ This Portfolio is a compilation of the Data Science and Data Analysis projects I
 
 ## Projects
 
+<img align="left" width="250" height="150" src="https://github.com/jsutthida/Portfolio/blob/main/elec.jpg"> **[Bank Customer Churn Prediction Using Spark ML](https://github.com/jsutthida/Advanced-Data-Science-with-IBM-Specialization/blob/main/Advanced%20Data%20Science%20Capstone/Bank%20Churn%20Customer%20Prediction%20Using%20Spark%20ML.ipynb)**
+
+This project is a part of Advanced Data Science Capstone course. Based on the historical bank customer data to create a Churn Prediction Model which provides prediction of customer/clients who most likely to cancle or leave the service.
+
+#
 <img align="left" width="250" height="150" src="https://github.com/jsutthida/Portfolio/blob/main/elec.jpg"> **[Forecasting Thailand Electricity Consumption by ARIMA model and STL](https://github.com/jsutthida/Forecasting-Thailand-Electricity-Consumption-by-ARIMA-model-and-STL)**
 
 In this project aims to study electricity consumption in Thailand (monthly) in the past 22 years during 2002 to 2023. I have use Seasonal and Trend decomposition using Loess (STL) to handle the seasonality and ARIMA model for forecasting.
